@@ -14,7 +14,6 @@ C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramew
 C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramework\bin\Debug\net6.0\nunit.engine.api.dll
 C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramework\bin\Debug\net6.0\nunit.engine.core.dll
 C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramework\bin\Debug\net6.0\testcentric.engine.metadata.dll
-C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramework\bin\Debug\net6.0\SeleniumFramework.dll.config
 C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramework\bin\Debug\net6.0\SeleniumFramework.deps.json
 C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramework\bin\Debug\net6.0\SeleniumFramework.runtimeconfig.json
 C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramework\bin\Debug\net6.0\SeleniumFramework.dll
@@ -114,3 +113,4 @@ C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramew
 C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramework\obj\Debug\net6.0\ref\SeleniumFramework.dll
 C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramework\obj\Debug\net6.0\SeleniumFramework.pdb
 C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramework\obj\Debug\net6.0\SeleniumFramework.genruntimeconfig.cache
+C:\Users\sharmas4\SpecflowRepo\SeleniumSpecflow\SeleniumFramework\SeleniumFramework\bin\Debug\net6.0\testhost.dll.config
