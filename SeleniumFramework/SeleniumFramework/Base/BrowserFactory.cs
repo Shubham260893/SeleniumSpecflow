@@ -16,16 +16,16 @@ namespace SeleniumFramework.Base
 
         }
 
-        public static  string PropertyValue(String propertyKey)
+        public static  String PropertyValue(String propertyKey)
         {
-            var value = ConfigurationManager.AppSettings[propertyKey];  
+            String value = ConfigurationManager.AppSettings[propertyKey];
             return value;
         }
 
         public void OpenBrowser()
         {
-            //String browserName = PropertyValue("browser");
-            String browserName = "chrome";
+            String browserName = PropertyValue("browser");
+           // String browserName = "chrome";
             switch (browserName.ToLower())
             {
                 case "chrome":
@@ -36,8 +36,8 @@ namespace SeleniumFramework.Base
         }
             public void GoToURL()
             {
-                //String urlString = PropertyValue("url");
-                _drivercontext.Driver.Navigate().GoToUrl("https://phptravels.com/demo");
+                String urlString = PropertyValue("url");
+                _drivercontext.Driver.Navigate().GoToUrl(urlString);
                 
             }
 

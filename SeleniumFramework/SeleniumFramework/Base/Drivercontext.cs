@@ -12,7 +12,7 @@ namespace SeleniumFramework.Base
     {
         private IWebDriver _driver;
         private ScenarioContext scenarioContext;
-        public WebDriverWait wait;
+        public WebDriverWait wait;  
 
 
 
